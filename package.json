@@ -20,6 +20,12 @@
   },
   "homepage": "https://github.com/401-advanced-javascript-qusaiAlhanaktah/lab-07-api-server#readme",
   "dependencies": {
-    "supertest": "^4.0.2"
+    "eslint": "^6.8.0",
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "method-override": "^3.0.0",
+    "nodemon": "^2.0.2",
+    "supertest": "^4.0.2",
+    "uuid": "^3.4.0"
   }
 }
